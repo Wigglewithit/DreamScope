@@ -1,16 +1,45 @@
-# dream_recall_trainer
+# 🌙 DreamScope
 
-A mobile app for dream journaling and recall training.
+> A sleek, dark-mode Flutter app designed to help users improve dream recall, journal dreams, and eventually analyze patterns using AI. Built by [Echo-Zero Interactive](https://github.com/Wigglewithit).
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## ✨ Features
 
-A few resources to get you started if this is your first Flutter project:
+- 🖊️ Write and store dreams locally using Flutter and SharedPreferences
+- 🌌 Clean dark-themed UI optimized for nighttime usage
+- 📅 View past entries in a scrollable journal format
+- 📲 Mobile-first design with future Android support
+- 🧠 Expansion-ready: built to support upcoming AI modules
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+---
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 🛠️ Tech Stack
+
+- **Framework:** Flutter (Material 3)
+- **Language:** Dart
+- **Local Storage:** SharedPreferences
+- **State:** `StatefulWidgets` (simple UI management)
+- **Platform:** Android-first, cross-platform-ready
+
+---
+
+## 🧪 In Progress / Planned
+
+- 🤖 **AI dream analysis** (symbology, pattern recognition, emotion tagging)
+- 🗣️ **Voice-to-text input** for describing dreams hands-free
+- 🔁 **REM-aware alarm system** with potential wearable integration
+- ☁️ **Cloud sync & backup** for cross-device dream access
+- 💡 **Dream tag categorization** (lucid, nightmare, flying, etc.)
+  **Matthew Becknell**
+- 📍 Somerset, KY
+- 💼 Student of Computer Science & Software Developer
+- 🧪 Founder of Echo-Zero Interactive
+
+---
+
+## 🚀 How to Run
+
+```bash
+flutter pub get
+flutter run
