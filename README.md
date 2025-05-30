@@ -32,7 +32,7 @@
 - ☁️ **Cloud sync & backup** for cross-device dream access
 - 💡 **Dream tag categorization** (lucid, nightmare, flying, etc.)
   **Matthew Becknell**
-- 📍 Somerset, KY
+- 📍 London, KY
 - 💼 Student of Computer Science & Software Developer
 - 🧪 Founder of Echo-Zero Interactive
 
